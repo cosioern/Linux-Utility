@@ -1,0 +1,10 @@
+# Executable files
+utility
+
+# Build Artifacrs
+*.dSYM
+*.yml
+*.plist
+
+# Code Editor Directories
+.vscode/
